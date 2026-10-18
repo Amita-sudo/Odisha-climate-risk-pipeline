@@ -19,9 +19,8 @@ This repository features an end-to-end data engineering and statistical pipeline
 * **The Volatility Signature**: Major coastal districts like Ganjam demonstrate high multi-year variance ("No Trend" with an insignificant P-value of 0.249), proving climate change manifests as intense weather whiplash (extreme flood years followed immediately by droughts) rather than linear progressive shifts.
 * **Interactive Design**: The dashboard transforms complex mathematical matrices into user-responsive visual grids using conditional color scaling (Crimson for drying zones, Deep Blue for wetting zones) to give policymakers instant regional risk clarity.
 
-### 🖼️ Interactive Dashboard Previews
-
 <p align="center">
   <img src="matrix_heatmap.png" width="49%" alt="Matrix Heatmap View" />
+  <img src="timeline_graph.png" width="49%" alt="Timeline Graph View" />
 </p>
 
